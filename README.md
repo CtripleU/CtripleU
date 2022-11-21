@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Python** for back-end development.
 - 📝 Check out my articles here <https://senotes.hashnode.dev>
 - 💞️ I’m looking to collaborate on exciting projects that align with my interests.
-- 📫 How to reach me via my email on my profile. 
+- 📫 You can reach me via my email on my profile. 
 - ❔ Ask me a question [here](https://github.com/CtripleU/CtripleU/pulls?q=is%3Apr+is%3Aopen).
 
 <!---
