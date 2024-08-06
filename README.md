@@ -1,6 +1,6 @@
 # 👋 Hi, I’m [Cumi](https://www.linkedin.com/in/cumi-oyemike)! 
 ### 👩‍💻 **I’m a Software Engineering student interested in building solutions that tackle Business, Healthcare, and Education problems.**
-- 🌱 I’m currently learning **Python** for back-end development.
+- 🌱 I’m currently learning **Machine Learning**.
 - 📝 Check out my articles here <https://senotes.hashnode.dev>
 - 💞️ I’m looking to collaborate on exciting projects that align with my interests.
 - 📫 You can reach me via my email on my profile.
