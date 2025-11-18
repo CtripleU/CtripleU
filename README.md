@@ -1,5 +1,5 @@
 # 👋 Hi, I’m [Cumi](https://www.linkedin.com/in/cumi-oyemike)! 
-### 👩‍💻 **I’m a Researcher**
+### 👩‍💻 **I am a Researcher**
 - 💞️ I’m looking to collaborate on exciting projects that align with my interests.
 - 📫 You can reach me via my email on my profile.
 - ✨ When I'm not working, you can find me volunteering for causes I care very much about, reading, listening to great music, debating, or hunting for new knowledge.
